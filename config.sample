@@ -1,0 +1,8 @@
+{
+    "HRRR": {
+        "destination": "/path/to/mirror/hrrr/hrrr.$dateYMD",
+        "http_prefix": "http://nomads.ncep.noaa.gov/pub/data/nccf/com/hrrr/prod/hrrr.$dateYMD/conus/",
+        "regex": "hrrr.t\\d\\dz.wrfsfcf\\d\\d.grib2"
+    }
+}
+
